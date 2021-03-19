@@ -4,7 +4,10 @@
  下圖為台電提供之108至110年的「瞬時尖峰負載（萬瓩）」、「備轉容量（萬瓩）」及「備轉容量率（％）」，由圖中可以見到110年之「備轉容量（萬瓩）」相對於前兩年皆處於較平穩的趨勢，另外備轉容量率也相較過去較為低緩，吾人猜測是因為恰逢疫情及後疫情時期，故去年之資料較為特別，因此僅採用去年至今年三月的資料來做分析。
 
  另外，猜測這兩年受經濟的影響（如.台商回流、台積電擴廠及帶動相關產業產能提升）相較天氣的影響來得大，又因無法取得相關資料，因此僅用備轉容量（萬瓩）去做自回歸。 
->>>![image](https://user-images.githubusercontent.com/43928481/111779918-ae6ff200-88f1-11eb-863a-f5435d502cb0.png)
+>>>![image](https://user-images.githubusercontent.com/43928481/111780006-c9dafd00-88f1-11eb-9ccc-9edc17c797f2.png)
+>>>![image](https://user-images.githubusercontent.com/43928481/111780025-cf384780-88f1-11eb-8cb8-af7e5d9f30fe.png)
+>>>![image](https://user-images.githubusercontent.com/43928481/111780047-d6f7ec00-88f1-11eb-89ac-5a8d13d5c3db.png)
+
 
 
 **Model training :**
